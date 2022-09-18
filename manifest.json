@@ -1,7 +1,7 @@
 {
     "short_name": "Checklist Seiscomp",
     "name": "Checklist Seiscomp",
-    "description": "Weather forecast information",
+    "description": "Checklist Seiscomp",
     "icons": [
         {
             "src": "logo64.ico",
@@ -39,9 +39,9 @@
             "type": "image/png"
         }
     ],
-    "start_url": "/",
+    "start_url": "/index.html",
     "background_color": "#4bb5ac",
     "display": "standalone",
-    "scope": "/",
+    "scope": "/index.html",
     "theme_color": "#4bb5ac"
 }
