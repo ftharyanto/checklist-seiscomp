@@ -39,9 +39,9 @@
             "type": "image/png"
         }
     ],
-    "start_url": "/index.html",
+    "start_url": "https://ftharyanto.github.io/checklist-seiscomp",
     "background_color": "#4bb5ac",
     "display": "standalone",
-    "scope": "/index.html",
+    "scope": "https://ftharyanto.github.io/checklist-seiscomp",
     "theme_color": "#4bb5ac"
 }
